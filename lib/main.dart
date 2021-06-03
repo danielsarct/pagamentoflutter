@@ -58,7 +58,7 @@ class _MyHomePageState extends State<MyHomePage> {
             );
             },
               color: Colors.greenAccent,
-            child:Text("Pagar Boleto ")
+            child:Text("Pagar Boleto")
           ),
         )
 
